@@ -42,4 +42,8 @@ public class TodoEntity {
 	private String userId;//이 객체를 생성한 유저의 id
 	private String title;//Todo 타이틀 ex) 운동하기
 	private boolean done;//true - todo를 완료한 경우(checked) //isDone() 메서드로 만들어짐
+	public String getId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
